@@ -12,3 +12,6 @@ Se gostar, por favor contribua para futuros projetos com os seus donativos.
 
 
 -------------------------------------------------------------------------------------------------------------------------
+
+
+Made with [Amaral](https://github.com/gamaamaral98)
